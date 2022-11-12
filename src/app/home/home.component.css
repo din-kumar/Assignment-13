@@ -1,0 +1,38 @@
+
+
+div{
+    padding: 10px;
+    /* text-align: center; */
+   
+    margin: auto;
+    margin-top: 20px;
+    /* background-color: antiquewhite; */
+}
+.container1{
+    float: left;
+    width: 50%;
+    height: 600px;
+    background-color: lightgray;
+    margin-left: 0px;
+}
+img{
+    height: 600px;
+    float: left;
+    margin-top: -10px;
+    margin-left: 300px;
+
+
+    
+}
+h1{
+    font-size: 4rem;
+}
+.container2{
+    
+    margin-right: 0%;
+    float: left;
+    
+}
+body{
+    font-size: 2rem;
+}

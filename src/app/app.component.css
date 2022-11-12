@@ -1,0 +1,17 @@
+body{
+    font-size: 2rem;
+}
+.nv:hover{
+    background-color:aqua;
+    
+}
+.nv{
+    font-size: 3rem;
+    color: white;
+
+    background-color: rgb(138, 179, 216);
+    
+}
+.nva.hover{
+    background-color: bisque;
+}
